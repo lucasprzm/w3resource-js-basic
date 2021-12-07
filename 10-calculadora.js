@@ -1,4 +1,4 @@
-// 9. Criar calculadora que o usuário coloca o valor e pode escolher se multiplica ou divide valor
+// 10. Criar calculadora que o usuário coloca o valor e pode escolher se multiplica ou divide valor
 // e gera o resultado.
 
 let valorUm = document.querySelector("#valor1");
