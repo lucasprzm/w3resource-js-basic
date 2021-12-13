@@ -2,7 +2,7 @@
 function tresValores(x, y, z) {
   if (x == y && x == z) {
     console.log(30);
-  } else if ((x == y && x != z) || (x == z && x != y) || (y == z && y != x)) {
+  } else if (x == y || x == z || y == z) {
     console.log(40);
   } else {
     console.log(20);
