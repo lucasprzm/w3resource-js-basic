@@ -1,3 +1,4 @@
+// 51. Programa para determinar as horas e minutos a partir dos minutos.
 function numeroHora(minutos) {
   if (minutos >= 0) {
     if (minutos % 60 == 0) {
