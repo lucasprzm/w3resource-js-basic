@@ -24,3 +24,12 @@ function vogais(string) {
 vogais("Lucas");
 vogais("Lara");
 vogais("Cruzeiro Esporte Clube");
+
+function vowel_Count(str) {
+  console.log(str.replace(/[^aeiou]/gi, ""));
+  return str.replace(/[^aeiou]/gi, "").length;
+}
+
+console.log(vowel_Count("Python"));
+console.log(vowel_Count("w3resource.com"));
+console.log(vowel_Count("w3rEsOurce.com"));
