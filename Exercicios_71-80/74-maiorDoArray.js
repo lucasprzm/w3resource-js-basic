@@ -8,4 +8,4 @@ function maior(array) {
 }
 maior([60, 50, 40]);
 maior([100, 20, 70]);
-maior([60, 80, 10]);
+maior([60, 80, 10, 40]);
