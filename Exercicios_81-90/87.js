@@ -13,3 +13,4 @@ compararArrays([10, 20, 30], [10, 20, 30]);
 compararArrays([10, 20, 30], [30, 10, 20]);
 compararArrays([10, 20, 30, 40], [10, 30, 20, 40]);
 compararArrays([30, 40, 50, 60, 70], [30, 70, 40, 50, 60]);
+compararArrays([1, 2, 3], [3, 2, 1]);
