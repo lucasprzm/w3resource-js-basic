@@ -1,3 +1,4 @@
+// 126. Função para verificar qual o maior número par de um array.
 function maiorPar(array) {
   let maiorValorPar = 0;
   for (let i = 0; i < array.length; i++) {
